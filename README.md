@@ -1,9 +1,9 @@
-# 🛡️ Phishing Email Detection – ISCTURKIYE 2025 Submission
+# Phishing Email Detection – ISCTURKIYE 2025 Submission
 
 This repository contains the implementation of a classification model based on classical machine learning techniques for the detection of phishing emails.  
 Phishing attacks carried out via email pose serious security threats to both individual users and institutions.
 
-## 📁 Project Structure
+##  Project Structure
 
 | File                   | Description                                                |
 |------------------------|------------------------------------------------------------|
@@ -12,11 +12,11 @@ Phishing attacks carried out via email pose serious security threats to both ind
 | `ornek.ipynb`          | Example notebook demonstrating sample predictions          |
 | `veri_modelleme.ipynb` | Exploratory data analysis and ML model training            |
 
-> 📌 *Note: Datasets are not included in this repository due to file size limitations.*
+>  *Note: Datasets are not included in this repository due to file size limitations.*
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - Python 3.10+
 - scikit-learn
@@ -29,22 +29,30 @@ Phishing attacks carried out via email pose serious security threats to both ind
 
 ---
 
-## 🚀 Running the Application
+##  Running the Application
 
 To run the GUI interface:
 
 ```bash
 python ml_gui.py
+```
+
+---
+
+##  Academic Context
 
 This project was developed as part of the ISCTURKIYE 2025 
 
 A MACHINE LEARNING-BASED PHISHING E-MAIL DETECTION SYSTEM USING TF-IDF AND MULTI-SOURCE
+
 Year: 2025
 
 Submitted to:
 
 ISCTURKIYE 2025 – Information Security and Communication Technologies Conference
 
-Author
+---
+
+##  Author
 Akif Emre Dilek
 240708017@samsun.edu.tr 
